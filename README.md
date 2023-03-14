@@ -5,6 +5,7 @@ I'm a passionated full-stack developer.
 
 Always willing to learn new things.
 
+<h2> My GitHub Stats</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuaihuadu" alt="shuaihuadu" /> </p>
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuaihuadu&layout=compact" />
