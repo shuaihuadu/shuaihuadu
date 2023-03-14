@@ -6,7 +6,8 @@
 
 Do everything, be able to do everything!
 
-<h2> </h2>
+<br />
+<br />
 <h2> My GitHub Stats</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuaihuadu" alt="shuaihuadu" /> </p>
 <div align="center">
