@@ -24,5 +24,6 @@ Always willing to learn new things.
 <h2> My Last badges</h2>
 
 To see all the other badges are [here](https://www.credly.com/users/shuaihuadu/badges)
+
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
