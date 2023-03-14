@@ -2,7 +2,7 @@ name: Badges
 
 on:
   push:
-    branches: [master]
+    branches: [mail]
   schedule:
     - cron: "0 0 * * *"
 
