@@ -22,7 +22,7 @@ Do everything, be able to do everything!
 </div>
 
 
-<h2> My Last badges</h2>
+<h2> My badges</h2>
 
 To see all the other badges are [here](https://www.credly.com/users/shuaihuadu/badges)
 
