@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Badges
-        uses: pemtajo/badge-readme@v1.0.0
+        uses: pemtajo/badge-readme@main
         with:
           CREDLY_USER_NAME: shuaihuadu
           CREDLY_SORT: RECENT # or POPULAR
