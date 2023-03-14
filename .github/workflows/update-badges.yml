@@ -4,14 +4,6 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
-  workflow_dispatch:
-    inputs:
-      logLevel:
-        description: 'Log level'     
-        required: true
-        default: 'warning'
-      tags:
-        description: 'Test scenario tags' 
 jobs:
   update-readme:
     name: Update Readme with badges
@@ -21,5 +13,9 @@ jobs:
         uses: pemtajo/badge-readme@main
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          BADGE_SIZE: 100
-          NUMBER_LAST_BADGES: 24
+          REPOSITORY: <username>/<username> # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "My commit message to update badges" # optional
+          CREDLY_USER: shuaihuadu # optional, but default will use the same from github
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT, RECENT or POPULAR
+          BADGE_SIZE:  80x80 # optional, the resolution to the badges images, 110x110 default
+          NUMBER_LAST_BADGES: 50 # optional, will show the 48 in the first page, the maximum last badges to show
