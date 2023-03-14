@@ -5,13 +5,16 @@ I'm a passionated full-stack developer.
 
 Always willing to learn new things.
 
+<h2> </h2>
+<h2> </h2>
 <h2> My GitHub Stats</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuaihuadu" alt="shuaihuadu" /> </p>
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuaihuadu&layout=compact" />
 </div>
 
-<h2> My GitHub Stats</h2>
+<h2> </h2>
+<h2> </h2>
 <div align="center">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=shuaihuadu&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
