@@ -1,3 +1,9 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=michaelcontento&show_icons=true&count_private=true&hide_border=true" width="50%"/>
+<h1 class="mt-n3">Hi there 👋</h1>
+
+I'm a passionated 💻 full-stack developer and part time 🐝 beekeeper.
+
+Always willing to learn new things.
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50" height="50">, I'm ShuaiHua.</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuaihuadu" alt="shuaihuadu" /> </p>
 <div align="center">
