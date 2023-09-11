@@ -7,10 +7,6 @@
 Do everything, be able to do everything!
 
 <br />
-
-![snake](./assets/github-contribution-grid-snake.svg)
-
-<br />
 <h2> My GitHub Stats</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuaihuadu" alt="shuaihuadu" /> </p>
 <div align="center">
