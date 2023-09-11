@@ -7,6 +7,11 @@
 Do everything, be able to do everything!
 
 <br />
+
+<!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
+
+<br />
 <h2> My GitHub Stats</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shuaihuadu" alt="shuaihuadu" /> </p>
 <div align="center">
