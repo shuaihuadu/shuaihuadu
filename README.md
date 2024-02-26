@@ -23,12 +23,13 @@ Do everything, be able to do everything!
 </div>
 
 <h2> </h2>
-
+<!--
 <h2> My badges</h2>
 
 To see all the other badges are [here](https://www.credly.com/users/shuaihuadu/badges)
-
+--!>
 <!--START_SECTION:badges-->
+<!--
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/5bf9a03e-8c27-4faf-bc14-b5407c97a59c "CKA: Certified Kubernetes Administrator")
 [![Microsoft 365 Certified: Fundamentals](https://images.credly.com/size/80x80/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png)](http://www.credly.com/badges/bab86b93-4fc4-4eeb-9aea-e2812842c860 "Microsoft 365 Certified: Fundamentals")
 [![Microsoft Certified: Power Platform Solution Architect Expert](https://images.credly.com/size/80x80/images/72eb3ccc-c40c-4e41-84b1-689e58af16f9/power-platform-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/6f2a495c-4568-4c8a-8a60-947b65b927f1 "Microsoft Certified: Power Platform Solution Architect Expert")
@@ -51,4 +52,5 @@ To see all the other badges are [here](https://www.credly.com/users/shuaihuadu/b
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/80x80/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/77959f06-2f88-447e-9bfd-590b9082057f "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/80x80/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/7193f95d-9f62-4848-ae0c-cbc62efb2cb0 "Microsoft Certified: Azure Developer Associate")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/be5b69fd-9fe4-49dc-9121-2d9f10a377fb "Microsoft Certified: Azure Fundamentals")
+-->
 <!--END_SECTION:badges-->
