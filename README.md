@@ -23,11 +23,11 @@ Do everything, be able to do everything!
 </div>
 
 <h2> </h2>
-<!--
+
 <h2> My badges</h2>
 
 To see all the other badges are [here](https://www.credly.com/users/shuaihuadu/badges)
---!>
+
 <!--START_SECTION:badges-->
 <!--
 [![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/5bf9a03e-8c27-4faf-bc14-b5407c97a59c "CKA: Certified Kubernetes Administrator")
@@ -52,5 +52,16 @@ To see all the other badges are [here](https://www.credly.com/users/shuaihuadu/b
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/80x80/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/77959f06-2f88-447e-9bfd-590b9082057f "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/80x80/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/7193f95d-9f62-4848-ae0c-cbc62efb2cb0 "Microsoft Certified: Azure Developer Associate")
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/be5b69fd-9fe4-49dc-9121-2d9f10a377fb "Microsoft Certified: Azure Fundamentals")
--->
+--!>
+
+<!--START_SECTION:badges-->
+
+[![CKA: Certified Kubernetes Administrator](https://images.credly.com/size/80x80/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png)](http://www.credly.com/badges/5bf9a03e-8c27-4faf-bc14-b5407c97a59c "CKA: Certified Kubernetes Administrator")
+[![Microsoft Certified: Azure AI Fundamentals](https://images.credly.com/size/80x80/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png)](http://www.credly.com/badges/a807802d-0140-4444-a745-dc2f48b80c4c "Microsoft Certified: Azure AI Fundamentals")
+[![Microsoft Certified: Power Platform Developer Associate](https://images.credly.com/size/80x80/images/2723937e-7860-4f43-bd2b-3c143b913c3b/power-platform-developer-600x600.png)](http://www.credly.com/badges/e5a8945c-6e72-43f6-8402-9db6ee225656 "Microsoft Certified: Power Platform Developer Associate")
+[![Microsoft Certified: Azure Developer Associate](https://images.credly.com/size/80x80/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png)](http://www.credly.com/badges/7193f95d-9f62-4848-ae0c-cbc62efb2cb0 "Microsoft Certified: Azure Developer Associate")
+[![Microsoft Certified: Azure Solutions Architect Expert](https://images.credly.com/size/80x80/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png)](http://www.credly.com/badges/aa8b9a55-ce49-4968-9008-77c3e767b942 "Microsoft Certified: Azure Solutions Architect Expert")
+[![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/80x80/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/565fb9d0-7251-4bba-988b-e78a7e10198b "Microsoft Certified: DevOps Engineer Expert")
+
+<!--END_SECTION:badges-->
 <!--END_SECTION:badges-->
