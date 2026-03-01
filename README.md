@@ -30,6 +30,19 @@
 <!-- ========== 分隔线 ========== -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+<!-- ========== 贪吃蛇 ========== -->
+<h2> 🐍 Watch the Snake Eat My Contributions </h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake.svg" />
+  </picture>
+</div>
+<!-- ========== 分隔线 ========== -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <!-- ========== GitHub Stats ========== -->
 <h2> 📊 My GitHub Stats </h2>
 
@@ -63,29 +76,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shuaihuadu&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </div>
 
-<!-- ========== 分隔线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ========== 奖杯 ========== -->
-<h2> 🏆 GitHub Trophies </h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shuaihuadu&theme=tokyonight&row=1&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-</div>
-
-<!-- ========== 分隔线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ========== 贪吃蛇 ========== -->
-<h2> 🐍 Watch the Snake Eat My Contributions </h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake.svg" />
-  </picture>
-</div>
 
 <!-- ========== 页脚 ========== -->
 <br />
