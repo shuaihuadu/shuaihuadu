@@ -2,7 +2,7 @@
 <div align="center">
   <!-- 打字机动画标题 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=600&height=60&lines=Hi+there%2C+I'm+ShuaiHua.+%F0%9F%91%8B;%E5%95%A5%E9%83%BD%E5%BE%97%E5%B9%B2%EF%BC%8C%E5%95%A5%E9%83%BD%E5%BE%97%E4%BC%9A%E5%B9%B2%EF%BC%81;Do+everything%2C+be+able+to+do+everything!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=false&width=600&height=60&lines=Hi+there%2C+I'm+ShuaiHua.+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 
   <br />
@@ -17,7 +17,9 @@
 </div>
 
 <!-- ========== 分隔线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,20:1a1b27,40:414868,50:70a5fd,60:414868,80:1a1b27,100:0d1117&height=3" width="100%" />
+</div>
 
 <!-- ========== 关于我 ========== -->
 <h2> 🧑‍💻 About Me </h2>
@@ -27,12 +29,6 @@
 💡  Do everything, be able to do everything!
 ```
 
-<!-- ========== 分隔线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-<!-- ========== 贪吃蛇 ========== -->
-<h2> 🐍 Watch the Snake Eat My Contributions </h2>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake-dark.svg" />
@@ -40,8 +36,6 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/shuaihuadu/shuaihuadu/output/github-snake.svg" />
   </picture>
 </div>
-<!-- ========== 分隔线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <!-- ========== GitHub Stats ========== -->
 <h2> 📊 My GitHub Stats </h2>
@@ -67,7 +61,9 @@
 </div>
 
 <!-- ========== 分隔线 ========== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,20:1a1b27,40:414868,50:70a5fd,60:414868,80:1a1b27,100:0d1117&height=3" width="100%" />
+</div>
 
 <!-- ========== 活动图 ========== -->
 <h2> 📈 Contribution Graph </h2>
